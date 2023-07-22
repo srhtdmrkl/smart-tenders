@@ -1,4 +1,3 @@
-Note: The dApp has some missing functionalities. Awarding bids by the contractor owner is to be implemented in the dApp.
 
 # Smart Tenders
 
